@@ -50,8 +50,14 @@ A chat-based productivity tool built for a hackathon, leveraging IBM watsonx.ai'
 ## Project Structure
 
 ai-workflow-assistant/
+
+
 ├── workflow.py              # Streamlit frontend and watsonx.ai integration
+
+
 ├── requirements.txt    # Python dependencies
+
+
 └── README.md           # This file
 
 
